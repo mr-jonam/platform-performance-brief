@@ -64,11 +64,11 @@ Primary topic: **platform performance testing**.
 
 Related search phrases: SAP performance testing questions; ServiceNow performance testing scope; Salesforce performance testing discussion; web portal performance testing. These are editorial keyword hypotheses, not measured search-volume claims.
 
-Suggested GitHub topics: `performance-testing`, `load-testing`, `web-performance`, `digital-platforms`, `core-web-vitals`, `enterprise-software`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); nothing has been applied on GitHub.
+Suggested GitHub topics: `performance-testing`, `load-testing`, `web-performance`, `digital-platforms`, `core-web-vitals`, `enterprise-software`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on the private GitHub repository.
 
 ## Publication status
 
-**Local preparation only.** Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
+**Private GitHub preparation.** Repository: [platform-performance-brief](https://github.com/mr-jonam/platform-performance-brief). Public visibility and a website deployment have not been enabled. Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
 
 ## Sources and attribution
 
