@@ -1,0 +1,19 @@
+{
+  "name": "platform-performance-brief",
+  "description": "Prepare performance testing discussions for enterprise platforms and web portals with a transparent local transaction-rate assumption tool.",
+  "topics": [
+    "performance-testing",
+    "load-testing",
+    "web-performance",
+    "digital-platforms",
+    "core-web-vitals",
+    "enterprise-software",
+    "quality-assurance"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}
