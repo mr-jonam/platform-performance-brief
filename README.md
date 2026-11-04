@@ -7,15 +7,17 @@ Prepare performance testing discussions for enterprise platforms and web portals
 **Decision in focus:** What demand assumption and user outcome need evidence before discussing a performance engagement?
 
 <!-- publication:links:start -->
-Live website pending publisher, rights and hosting approval. Preview locally below.
+[Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
+
+<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="docs/assets/cta-discuss.svg" width="280" height="60" alt="Discuss your testing question on LinkedIn" /></a>
 <!-- publication:links:end -->
 
 ## Start here
 
-- [Decision guide](docs/guide.html): public-source context and original discussion questions.
-- [Try the mini tool](docs/tool.html): transaction-rate assumption explorer.
+- [Decision guide](GUIDE.md): public-source context and original discussion questions.
+- [Mini tool source / local page](docs/tool.html): transaction-rate assumption explorer.
 - [Sources and retrieval limitations](docs/references.html).
-- [Prepare a collaboration request](docs/contact.html): local copy/download; contact pending.
+- [Prepare a collaboration request](docs/contact.html): local copy/download, with a direct LinkedIn contact link.
 - [Optional orientation skill](skills/platform-performance-brief/SKILL.md).
 
 Open `docs/index.html` in a browser or use the local preview:
@@ -39,9 +41,9 @@ The mini tool works in the browser without sign-up, cookies, analytics, external
 1. Read the decision guide and official references.
 2. Use the mini tool to identify what needs clarification.
 3. Copy the questions you want to discuss and prepare a sanitised request.
-4. Use the publisher’s approved private contact channel when configured.
+4. [Send a short LinkedIn enquiry](https://www.linkedin.com/in/manoj-rollo/) naming the guide, broad platform and decision ahead.
 
-A first conversation can clarify the evidence question, its scope and whether a further engagement would be useful. No qualifications, client results, team history or service commitments are asserted. Never post client context or assessment requests in public issues.
+A first conversation can clarify the evidence question, its scope and whether a further engagement would be useful. Assessment, testing delivery or ongoing support can be scoped after that discussion; reading the guide does not promise an engagement or outcome. Never post client context or assessment requests in public issues.
 
 ## Scope
 
@@ -64,11 +66,11 @@ Primary topic: **platform performance testing**.
 
 Related search phrases: SAP performance testing questions; ServiceNow performance testing scope; Salesforce performance testing discussion; web portal performance testing. These are editorial keyword hypotheses, not measured search-volume claims.
 
-Suggested GitHub topics: `performance-testing`, `load-testing`, `web-performance`, `digital-platforms`, `core-web-vitals`, `enterprise-software`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on the private GitHub repository.
+Suggested GitHub topics: `performance-testing`, `load-testing`, `web-performance`, `digital-platforms`, `core-web-vitals`, `enterprise-software`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on GitHub.
 
 ## Publication status
 
-**Private GitHub preparation.** Repository: [platform-performance-brief](https://github.com/mr-jonam/platform-performance-brief). Public visibility and a website deployment have not been enabled. Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
+**Public GitHub resource.** The guide is readable directly in [GUIDE.md](GUIDE.md); HTML navigation and mini tools run locally using the instructions above. No live website has been deployed. Site indexing stays disabled until a real hosting destination and hosting-specific notice are approved; this does not prevent GitHub discovery. See [PUBLISHING.md](PUBLISHING.md).
 
 ## Sources and attribution
 
@@ -78,6 +80,6 @@ Read [SOURCES.md](SOURCES.md) for verification status. References are linked, no
 
 ## Licence and provenance
 
-Provisional private-development status: **LicenseRef-Proprietary**. No public reuse licence has been granted. See [LICENSE](LICENSE), [NOTICE](NOTICE) and the per-component review in [LICENSE-DECISION.md](LICENSE-DECISION.md). Final licence selection requires the legal holder’s approval. This preview is not described as open source.
+**LicenseRef-Proprietary — free internal orientation and local evaluation.** Read, privately annotate and run the supplied mini tools for internal use, including business use, under [LICENSE](LICENSE). External redistribution, public hosting and reuse in third-party deliverables require permission. This is not open source. GitHub viewing/forking terms still apply. See [NOTICE](NOTICE) and the component review in [LICENSE-DECISION.md](LICENSE-DECISION.md).
 
 Transparent project identifiers and source/licence hashes are recorded in `.provenance/manifest.json`. Signing and encrypted identity are pending user-controlled inputs. Identifiers and hashes provide integrity/correlation evidence, not DRM or conclusive proof of ownership.
