@@ -6,6 +6,14 @@ Prepare performance testing discussions for enterprise platforms and web portals
 
 **Decision in focus:** What demand assumption and user outcome need evidence before discussing a performance engagement?
 
+## See a first result
+
+**Problem:** A performance conversation begins with a user count but no explicit transaction-rate assumptions.
+
+**Example result:** 120 assumed active people × 3 transactions ÷ (15 × 60 seconds) = **0.4 average business transactions/second**.
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The number describes an assumed average, not measured demand, HTTP requests, concurrency or capacity.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ Prepare performance testing discussions for enterprise platforms and web portals
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/platform-performance-brief.git
+cd platform-performance-brief
 npm run preview
 ```
 
@@ -77,6 +89,12 @@ Suggested GitHub topics: `performance-testing`, `load-testing`, `web-performance
 - [web.dev — Web Vitals](https://web.dev/articles/vitals)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 
